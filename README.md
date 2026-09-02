@@ -16,6 +16,42 @@ The project combines **Python, SQL, Power BI, and data visualization** to demons
 
 ---
 
+## 📊 Power BI Dashboard
+
+### 1. Executive Overview
+
+<img src="dashboard/Power_BI_Dashboards/001_Executive%20Overview.jpg"
+  alt="Brazilian E-Commerce Sales Analytics - Executive Overview"
+  width="1200">
+
+<br>
+
+### 2. Customer Analytics
+
+<img src="dashboard/Power_BI_Dashboards/002_Customer_Analytics.jpg"
+  alt="Brazilian E-Commerce Sales Analytics - Customer Analytics"
+  width="1200">
+
+<br>
+
+### 3. Product Insights
+
+<img src="dashboard/Power_BI_Dashboards/003_Product_Insights.jpg"
+  alt="Brazilian E-Commerce Sales Analytics - Product Insights"
+  width="1200">
+
+<br>
+
+### 4. Logistics & Delivery Analytics
+
+<img src="dashboard/Power_BI_Dashboards/004_Logistics_%26_Delivery_Analytics.jpg"
+  alt="Brazilian E-Commerce Sales Analytics - Logistics and Delivery Analytics"
+  width="1200">
+
+
+
+
+
 ## Business Objectives
 
 The analysis focuses on answering key business questions:
