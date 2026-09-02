@@ -153,3 +153,38 @@ order by total_revenue DESC) as t
 where rn<=5 
 order by customer_state,rn ;
 
+
+-- Find the percentage contribution of each state to total revenue using a window function (SUM() OVER()).
+select customer_state,total_revenueby_state *100.0 / sum(total_revenueby_state) over () as revenue_percent
+from(select customer_state,sum(total_price) as total_revenueby_state
+from olist_ecommerce_clean
+where order_status='delivered'
+group by customer_state)as t
+order by revenue_percent desc;
+
+
+
+
+
+
+-- Find months where total revenue was higher than the overall monthly average.
+with month_total_revenue as(select Purchase_Month , sum(total_price) as total_revenue_of_month
+from olist_ecommerce_clean
+where order_status='delivered'
+group by Purchase_Month),
+
+avg_monthly_revenue as(select avg(total_revenue_of_month) as avg_monthly_revenue
+from month_total_revenue)
+
+select m.Purchase_Month,m.total_revenue_of_month
+from month_total_revenue as m
+cross join avg_monthly_revenue as a
+where m.total_revenue_of_month> a.avg_monthly_revenue
+order by m.Purchase_Month;
+
+-- Find customers who placed more than 1 order (identify repeat customers).
+select customer_unique_id,count(distinct order_id) as total_orders
+from olist_ecommerce_clean
+where order_status='delivered'
+group by customer_unique_id
+having count(distinct order_id)>1;
