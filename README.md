@@ -16,36 +16,36 @@ The project combines **Python, SQL, Power BI, and data visualization** to demons
 
 ## 📊 Power BI Dashboard
 
+
 ### 1. Executive Overview
 
-<img src="dashboard/Power_BI_Dashboards/brazillian_e-commerce_sales_and_customer_analyst_dashboard_page_0001.png"
-  alt="Brazilian E-Commerce Sales and Customer Analytics Dashboard - Executive Overview"
+<img src="dashboard/Power_Bi_Dashboards/brazillian_e_commerce_sales_analyst_dashboard_page_0001.jpg"
+  alt="Brazilian E-Commerce Sales Analytics Dashboard - Executive Overview"
   width="1200">
 
 <br>
 
 ### 2. Customer Analytics
 
-<img src="dashboard/Power_BI_Dashboards/brazillian_e-commerce_sales_and_customer_analyst_dashboard_page_0002.png"
-  alt="Brazilian E-Commerce Sales and Customer Analytics Dashboard - Customer Analytics"
+<img src="dashboard/Power_Bi_Dashboards/brazillian_e_commerce_sales_analyst_dashboard_page_0002.jpg"
+  alt="Brazilian E-Commerce Sales Analytics Dashboard - Customer Analytics"
   width="1200">
 
 <br>
 
 ### 3. Product Insights
 
-<img src="dashboard/Power_BI_Dashboards/brazillian_e-commerce_sales_and_customer_analyst_dashboard_page_0003.png"
-  alt="Brazilian E-Commerce Sales and Customer Analytics Dashboard - Product Insights"
+<img src="dashboard/Power_Bi_Dashboards/brazillian_e_commerce_sales_analyst_dashboard_page_0003.jpg"
+  alt="Brazilian E-Commerce Sales Analytics Dashboard - Product Insights"
   width="1200">
 
 <br>
 
 ### 4. Logistics & Delivery Analytics
 
-<img src="dashboard/Power_BI_Dashboards/brazillian_e-commerce_sales_and_customer_analyst_dashboard_page_0004.png"
-  alt="Brazilian E-Commerce Sales and Customer Analytics Dashboard - Logistics and Delivery Analytics"
+<img src="dashboard/Power_Bi_Dashboards/brazillian_e_commerce_sales_analyst_dashboard_page_0004.jpg"
+  alt="Brazilian E-Commerce Sales Analytics Dashboard - Logistics and Delivery Analytics"
   width="1200">
-
 
 
 ## Business Objectives
@@ -176,7 +176,7 @@ Example dashboard snapshot:
 | Total Orders | ~99K |
 | Average Order Value | R$159.83 |
 | Average Delivery Days | 12.09 days |
-| Average Review Score | 4.0 |
+| Average Review Score | 4.16 |
 | Orders per Customer | 1.03 |
 | Late Delivery % | 9.03% |
 | Average Freight Cost / Order | R$22.79 |
