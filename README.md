@@ -1,4 +1,4 @@
-# Brazilian E-Commerce Sales & Customer Analytics
+<img width="4150" height="2400" alt="brazillian_e-commerce_sales_and_customer_analyst_dashboard_page_0001" src="https://github.com/user-attachments/assets/3370c50a-227c-4a67-ab5f-5cdd412b9c66" /># Brazilian E-Commerce Sales & Customer Analytics
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-EDA%20%26%20Visualization-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,32 +20,32 @@ The project combines **Python, SQL, Power BI, and data visualization** to demons
 
 ### 1. Executive Overview
 
-<img src="dashboard/Power_BI_Dashboards/001_Executive%20Overview.jpg"
-  alt="Brazilian E-Commerce Sales Analytics - Executive Overview"
+<img src="dashboard/Power_BI_Dashboards/brazillian_e-commerce_sales_and_customer_analyst_dashboard_page_0001"
+  alt="brazillian_e-commerce_sales_and_customer_analyst_dashboard_page_0001"
   width="1200">
 
 <br>
 
 ### 2. Customer Analytics
 
-<img src="dashboard/Power_BI_Dashboards/002_Customer_Analytics.jpg"
-  alt="Brazilian E-Commerce Sales Analytics - Customer Analytics"
+<img src="dashboard/Power_BI_Dashboards/brazillian_e-commerce_sales_and_customer_analyst_dashboard_page_0002"
+  alt="brazillian_e-commerce_sales_and_customer_analyst_dashboard_page_0002"
   width="1200">
 
 <br>
 
 ### 3. Product Insights
 
-<img src="dashboard/Power_BI_Dashboards/003_Product_Insights.jpg"
-  alt="Brazilian E-Commerce Sales Analytics - Product Insights"
+<img src="dashboard/Power_BI_Dashboards/brazillian_e-commerce_sales_and_customer_analyst_dashboard_page_0003"
+  alt="brazillian_e-commerce_sales_and_customer_analyst_dashboard_page_0003"
   width="1200">
 
 <br>
 
 ### 4. Logistics & Delivery Analytics
 
-<img src="dashboard/Power_BI_Dashboards/004_Logistics_%26_Delivery_Analytics.jpg"
-  alt="Brazilian E-Commerce Sales Analytics - Logistics and Delivery Analytics"
+<img src="dashboard/Power_BI_Dashboards/brazillian_e-commerce_sales_and_customer_analyst_dashboard_page_0004"
+  alt="brazillian_e-commerce_sales_and_customer_analyst_dashboard_page_0004"
   width="1200">
 
 
