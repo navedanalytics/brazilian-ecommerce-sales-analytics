@@ -21,7 +21,7 @@ The project combines **Python, SQL, Power BI, and data visualization** to demons
 ### 1. Executive Overview
 
 <img src="dashboard/Power_BI_Dashboards/001_Executive%20Overview.jpg"
-  alt="Brazilian E-Commerce Sales Analytics - Executive Overview"
+  alt="Brazillian E-Commerce Sales and Customer Analyst Dashboard_page-0001.jpg"
   width="1200">
 
 <br>
@@ -29,7 +29,7 @@ The project combines **Python, SQL, Power BI, and data visualization** to demons
 ### 2. Customer Analytics
 
 <img src="dashboard/Power_BI_Dashboards/002_Customer_Analytics.jpg"
-  alt="Brazilian E-Commerce Sales Analytics - Customer Analytics"
+  alt="Brazillian E-Commerce Sales and Customer Analyst Dashboard_page-0002.jpg"
   width="1200">
 
 <br>
@@ -37,7 +37,7 @@ The project combines **Python, SQL, Power BI, and data visualization** to demons
 ### 3. Product Insights
 
 <img src="dashboard/Power_BI_Dashboards/003_Product_Insights.jpg"
-  alt="Brazilian E-Commerce Sales Analytics - Product Insights"
+  alt="Brazillian E-Commerce Sales and Customer Analyst Dashboard_page-0003.jpg"
   width="1200">
 
 <br>
@@ -45,7 +45,7 @@ The project combines **Python, SQL, Power BI, and data visualization** to demons
 ### 4. Logistics & Delivery Analytics
 
 <img src="dashboard/Power_BI_Dashboards/004_Logistics_%26_Delivery_Analytics.jpg"
-  alt="Brazilian E-Commerce Sales Analytics - Logistics and Delivery Analytics"
+  alt="Brazillian E-Commerce Sales and Customer Analyst Dashboard_page-0004.jpg"
   width="1200">
 
 
